@@ -13,7 +13,7 @@ from __future__ import print_function
 
 import numpy as np
 import cv2 as cv
-from matplotlib import pyplot as plt
+# from matplotlib import pyplot as plt
 
 if __name__ == '__main__':
 
